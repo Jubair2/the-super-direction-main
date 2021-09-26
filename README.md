@@ -1,6 +1,4 @@
-# Make an Bangladeshi Writters Team
-
-This project was Writters Team [The Super Direction](https://the-super-poets.netlify.app/).
+# Make an Bangladeshi Writters Tea
 
 ## Projects Overview
 * Here you can about the information of the poets
